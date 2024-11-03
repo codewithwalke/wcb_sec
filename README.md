@@ -1,4 +1,4 @@
 # wcb_sec
-Names of players in SEC 2024-2025 season
+Names of women's college basketball players in SEC 2024-2025 season
 
-I created code that will randomly select women's basketball players to appreciate
+I created code that will randomly select women's basketball players so people can become knowledgeable of all players.
